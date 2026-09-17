@@ -138,9 +138,10 @@ for m in mesta:
     dez.append((dz, m[0]))
 print(max(dez),"max", min(dez),"min")
 """
+"""
 for m in mesta:
     veter = vetr(m[1], m[2])
     vetr1.append((veter, m[0]))
 print(max(vetr1),"max", min(vetr1),"min")
-
+"""
 
