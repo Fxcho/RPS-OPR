@@ -20,3 +20,4 @@ def imena(names):
 
 imena(("Luka", "Maja", "Nika", "Filip", "Lara", "Tim", "Eva", "Nejc", "Sara", "Vid", "Tia", "Jure", "Klara", "Lan", "Ana", "Gal", "Zoja", "Mark", "Ela"))
 
+
